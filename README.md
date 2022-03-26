@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ## Overview
-The purpose of this project is to create a report of cryptocurrencies with a vizualization so they currencies can be grouped together to create a new classification system. The data provided from CryptoCompare supplied me with current trading data needed to process the unsupervised Machine Learning model to process this analysis. During this analysis I expressed my skills aquired in Data Preprocessing, Elbow Curve plots, PCA, KMeans Algorithms and hvPLot vizualizations.
+The purpose of this project is to create a report of cryptocurrencies with a vizualization so the currencies can be grouped together to create a new classification system. The data provided from CryptoCompare supplied me with current trading data needed to process the unsupervised Machine Learning model to complete this analysis. During this analysis I expressed my skills aquired in Data Preprocessing, Elbow Curve plots, PCA, KMeans Algorithms and hvPLot vizualizations.
 
 ## Results
 The original data needed some preprocessing to eliminate null values and cryptocurrencies that were not currently traded. The final results yielded cryptocurrencies with a total number of mined coins greater than 0. 
